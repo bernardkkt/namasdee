@@ -1,4 +1,4 @@
-import 'package:SeriousJoyfulCopyleft/SeriousJoyfulCopyleft.dart';
+import 'package:namasdee/SeriousJoyfulCopyleft.dart';
 import 'package:test/test.dart';
 
 void main() {
